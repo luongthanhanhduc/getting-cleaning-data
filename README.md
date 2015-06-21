@@ -1,5 +1,5 @@
-* In order to run the "run_analysis.R", we can store this R file in any arbitrary folder. Run it with RStudio.
-* In the script, the program will automatically do the following things:
+###### In order to run the "run_analysis.R", we can store this R file in any arbitrary folder. Run it with RStudio.
+###### In the script, the program will automatically do the following things:
 - download the dataset into current working directory
 - extract the dataset into current working directory
 - read the measurements in training and testing datasets and merge them into one dataset
